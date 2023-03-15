@@ -1,6 +1,6 @@
 # Guvi Intern
 
-## Demo -> [Saravanan Vijayamuthu Guvi-Intern](https://saravananvijuthuguviinterayamn.000webhostapp.com/)
+## Demo -> [ Guvi-Intern](https://saravananvijuthuguviinterayamn.000webhostapp.com/)
 
 ## Task Given and Completed
     - Use HTML, CSS, SCSS, Bootstrap & JavaScript ✅
